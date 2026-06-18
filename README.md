@@ -1,16 +1,10 @@
-﻿# website-upload-849-085
+# 高清电影大全 - 纯静态电影网站
 
-Batch 85 of 20. Contains extracted static website versions. The original zip files are not committed.
+- 生成日期：2026-05-26
+- 影片总数：2000
+- 独立详情页：2000
+- 分类页：8 个独立分类 + 分类总览
+- 播放器：详情页绑定素材 JS 中提取的 m3u8 播放源，点击播放时使用 hls.js，支持原生 HLS 回退。
+- 封面：素材包未包含实际 JPG 文件。页面已按要求引用网站顶级目录的 `1.jpg` 到 `150.jpg`；后续把对应图片放到网站根目录即可显示，未放置时页面有 CSS/JS 文字渐变备用展示。
 
-| Directory | Source zip |
-| --- | --- |
-| version-841 | project-bolt-sb1-mfmccf4g-chatgpt (1).zip |
-| version-842 | project-bolt-sb1-mgfhuqpo - 副本-chatgpt (1).zip |
-| version-843 | project-bolt-sb1-mgfhuqpo-chatgpt (1).zip |
-| version-844 | project-bolt-sb1-mhemhbp3 - 副本-chatgpt (1).zip |
-| version-845 | project-bolt-sb1-mhemhbp3-chatgpt (1).zip |
-| version-846 | project-bolt-sb1-mhn9ez1n - 副本-chatgpt (1).zip |
-| version-847 | project-bolt-sb1-mhn9ez1n-chatgpt (1).zip |
-| version-848 | project-bolt-sb1-mja2yabp - 副本-chatgpt (1).zip |
-| version-849 | project-bolt-sb1-mja2yabp-chatgpt (1).zip |
-| version-850 | project-bolt-sb1-mkdtkjdw - 副本-chatgpt (1).zip |
+直接打开 `index.html` 即可浏览。
